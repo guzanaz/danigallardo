@@ -1,7 +1,7 @@
 # showcase
 showcase:
   enable: true
-  title: "Hola, Soy Daniela."
+  title: "Hola, Soy Daniela Gallardo."
   subtitle: "Diseñadora Gráfica"
   description: "Nací en Chile pero ahora vivo en España, trabajo como <a target='_blank' href='https://www.linkedin.com/in/dani-gallardo/'>Freelance</a> y también estudio un grado superior en diseño de apliaciones web, este es mi CV hecho con una plantilla de HUGO ."
   image:
